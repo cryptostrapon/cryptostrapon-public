@@ -1,5 +1,7 @@
 # Antes de configurar una billetera de hardware
 
+![Antes de configurar tu billetera de hardware: lista abierta de CryptoStrapon](hardware-wallet-setup-cover-es.png)
+
 Una lista breve escrita tras el incidente de implantes de hardware de 2026. Unos delincuentes manipularon dispositivos Ledger auténticos al final de la cadena de distribución. Añadieron una pieza oculta que capturaba la frase de recuperación durante la configuración, y los dispositivos llegaron a los compradores a través de vendedores externos.
 
 Ledger ha confirmado casos en el Sudeste Asiático y en Berlín, e investiga informes de dos unidades en Dubái. Según Ledger, no hay fallo en su chip seguro ni en su sistema operativo, y no hay ningún caso confirmado de un dispositivo comprado en ledger.com ([actualización de Ledger, 18 de noviembre de 2026](https://support.ledger.com/article/Update-on-the-Hardware-Implant-Incident-Investigation)).
