@@ -20,6 +20,7 @@ Investigations (57 documented cases): https://cryptostrapon.com/dark-bits
 - Detector methodology
 - Changelog
 - Red-flag pattern categories
+- [Checklist: before you set up a hardware wallet](checklists/hardware-wallet-setup.md) ([ES](checklists/hardware-wallet-setup.es.md))
 
 ## What's not public
 - Application source code
