@@ -1,5 +1,7 @@
 # Before you set up a hardware wallet
 
+![Before you set up a hardware wallet: open checklist by CryptoStrapon](hardware-wallet-setup-cover-en.png)
+
 A short checklist written after the 2026 hardware implant incident. Criminals tampered with genuine Ledger devices at the end of the distribution chain. They added a hidden part that captured the recovery phrase during setup, and the devices then reached buyers through third-party sellers.
 
 Ledger has confirmed cases in Southeast Asia and Berlin and is investigating reports of two units in Dubai. It reports no flaw in its secure chip or operating system and no confirmed case involving a device bought on ledger.com ([Ledger update, 18 November 2026](https://support.ledger.com/article/Update-on-the-Hardware-Implant-Incident-Investigation)).
