@@ -6,6 +6,12 @@ Free crypto scam detection and investigation methodology.
 
 Live tool: https://cryptostrapon.com/scam-detector
 
+## Checklists
+
+[![Before you set up a hardware wallet](checklists/hardware-wallet-setup-cover-en.png)](checklists/hardware-wallet-setup.md)
+
+- [Before you set up a hardware wallet](checklists/hardware-wallet-setup.md) ([ES](checklists/hardware-wallet-setup.es.md)): where to buy, what to check before setup, what to do if you doubt a device and how to move funds to safety. Free to print and share.
+
 ## Open datasets
 
 The education data lives in two separate open repositories (MIT code, CC BY 4.0 content):
@@ -21,7 +27,6 @@ Investigations (57 documented cases): https://cryptostrapon.com/dark-bits
 - [Detector test set v1](methodology/detector-test-set-v1.md): 100 inputs (40 legitimate, 20 gray, 40 scam) with expected results, also as [CSV](methodology/detector-test-set-v1.csv)
 - [Changelog](changelog.md)
 - [Red-flag pattern categories](patterns/)
-- [Checklist: before you set up a hardware wallet](checklists/hardware-wallet-setup.md) ([ES](checklists/hardware-wallet-setup.es.md))
 
 ## What's not public
 - Application source code
