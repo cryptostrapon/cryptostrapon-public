@@ -18,6 +18,7 @@ Investigations (57 documented cases): https://cryptostrapon.com/dark-bits
 ## What's public
 - Investigation methodology
 - Detector methodology
+- [Detector test set v1](methodology/detector-test-set-v1.md): 100 inputs (40 legitimate, 20 gray, 40 scam) with expected results, also as [CSV](methodology/detector-test-set-v1.csv)
 - Changelog
 - Red-flag pattern categories
 - [Checklist: before you set up a hardware wallet](checklists/hardware-wallet-setup.md) ([ES](checklists/hardware-wallet-setup.es.md))
