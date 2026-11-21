@@ -1,0 +1,101 @@
+id,section,type,expected_band,input
+L01,legitimate,chat,Low,"gm! Gas is under 5 gwei today, good time to move my savings to my hardware wallet."
+L02,legitimate,chat,Low,Can you send me your ETH address? I'll pay you back the 50 for dinner.
+L03,legitimate,event,Low,Devconnect tickets are on sale on devconnect.org. See you there!
+L04,legitimate,exchange notice,Low,"Your withdrawal of 0.05 ETH has been completed. If you did not make this request, open the app and go to Security."
+L05,legitimate,exchange notice,Low,"New sign-in to your account from Chrome on Windows. If this was you, no action is needed."
+L06,legitimate,exchange notice,Low,Your identity verification is complete. You can now deposit and trade.
+L07,legitimate,exchange notice,Low,Scheduled maintenance: deposits on the TRON network will be paused for 30 minutes at 02:00 UTC.
+L08,legitimate,wallet notice,Low,MetaMask: a new version is available. Update from the Chrome Web Store or your extension settings.
+L09,legitimate,wallet notice,Low,Your Trezor firmware update is available in Trezor Suite. Never share your recovery seed with anyone.
+L10,legitimate,security tip,Low,"Reminder from our support team: we will never ask for your password, 2FA codes or recovery phrase."
+L11,legitimate,developer,Low,PR merged: fix(parser) handle npm-shrinkwrap.json. Thanks for the contribution!
+L12,legitimate,developer,Low,Your npm package was published: my-lib@1.4.2
+L13,legitimate,developer,Low,"GitHub: a new SSH key was added to your account. If you did not add it, remove it in Settings."
+L14,legitimate,news,Low,"Ethereum's next upgrade is scheduled for testnets next month, according to the core developers call."
+L15,legitimate,news,Low,"Bitcoin hashrate hit a new high this week, data from mempool.space shows."
+L16,legitimate,URL,Low,https://etherscan.io
+L17,legitimate,URL,Low,https://ethereum.org/en/wallets/
+L18,legitimate,URL,Low,https://github.com/bitcoin/bitcoin
+L19,legitimate,URL,Low,https://www.coinbase.com
+L20,legitimate,URL,Low,https://metamask.io
+L21,legitimate,URL,Low,https://revoke.cash
+L22,legitimate,URL,Low,https://app.uniswap.org
+L23,legitimate,URL,Low,https://www.ledger.com
+L24,legitimate,URL,Low,https://trezor.io
+L25,legitimate,payment,Low,"Invoice #2041 for website design: 1,200 USDC on Base. Payment address is in the signed contract we both have."
+L26,legitimate,family,Low,"Mum, I sent you the guide on how to check a link before clicking it. Call me if anything looks odd."
+L27,legitimate,job,Low,Thanks for applying to the Senior Solidity role. Our recruiter will email you from @ourcompany.com to schedule a video call.
+L28,legitimate,job,Low,The take-home task is a small React app. Please run it in a container or VM; there are no install scripts.
+L29,legitimate,DAO,Low,Governance vote 42 is open until Friday. Read the proposal on the forum before voting.
+L30,legitimate,airdrop real style,Low,The airdrop eligibility checker is live on the official site linked from our verified X account. We will never DM you.
+L31,legitimate,support real style,Low,We received your ticket #58213. An agent will reply here in the app. Do not share your seed phrase with anyone.
+L32,legitimate,bank,Low,"Your card ending 4421 was used at an ATM. If this was not you, call the number on the back of your card."
+L33,legitimate,friend,Low,"I lost money on a meme coin last week, lesson learned. Only buying BTC now."
+L34,legitimate,education,Low,A seed phrase is 12 or 24 words that back up your wallet. Anyone who has it controls the funds.
+L35,legitimate,education,Low,Address poisoning sends you a tiny transfer from an address that looks like one you used. Always copy from your contact list.
+L36,legitimate,marketplace,Low,Your NFT sold on OpenSea for 0.2 ETH. Proceeds are in your wallet.
+L37,legitimate,podcast,Low,"New episode: how hardware wallet supply chains work, with a security researcher."
+L38,legitimate,address,Low,0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045 (well known public ENS owner address)
+L39,legitimate,address,Low,0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 (USDC on Ethereum)
+L40,legitimate,address,Low,TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t (USDT on TRON)
+G01,gray,presale,Caution,"New presale! $MOON launches tomorrow, 100x potential, early buyers get 20% bonus. Join t.me/moonpresale_official"
+G02,gray,mentor,Caution,"I trade crypto full time and help beginners. 3 free lessons, then a small fee if you like it. DM me."
+G03,gray,signals,Caution,"VIP signals group, 85% win rate last month, $49 a month, results in the pinned post."
+G04,gray,memecoin,Caution,"Dev is doxxed, liquidity locked for 30 days, launching on pump.fun tonight."
+G05,gray,yield,Caution,"Our DeFi vault pays 24% APY in stablecoins. Audited, see the report on our docs."
+G06,gray,OTC,Caution,"I can sell you USDT below market for cash in person, my usual rate is 0.97."
+G07,gray,giveaway,Caution,"Retweet and follow for a chance to win 0.1 ETH, winner announced Friday."
+G08,gray,bot,Caution,"Our trading bot is free to try, connect read-only API keys from your exchange."
+G09,gray,job,Caution,"We pay $3,000 a month for remote community moderators. Payment in USDT. Interview on Telegram."
+G10,gray,P2P,Caution,"Selling USDT P2P, I only accept bank transfer from an account in your name."
+G11,gray,NFT,Caution,"Free mint for our new collection, gas only, link in bio."
+G12,gray,airdrop farming,Caution,Points program is live: bridge to our new L2 and do 5 swaps a week to qualify.
+G13,gray,recovery talk,Caution,Lost access to your wallet? A locksmith style service can try to brute force your own password if you remember most of it.
+G14,gray,influencer,Caution,"This coin will 10x by Christmas, not financial advice."
+G15,gray,loan,Caution,"Crypto-backed loan, 12% APR, deposit BTC as collateral, instant approval."
+G16,gray,cloud mining,Caution,"Cloud mining contract, 1 TH/s for $99, payouts daily."
+G17,gray,referral,Caution,Use my referral code to get a $50 bonus when you deposit $100.
+G18,gray,token sale,Caution,"Private round for our project, minimum $5,000, SAFT available on request."
+G19,gray,arbitrage,Caution,"I make 2% a day doing arbitrage between two exchanges, want me to teach you?"
+G20,gray,wallet app,Caution,"Try our new wallet app, not on the App Store yet, download the APK from our site."
+S01,scam,seed phishing,High or Scam,Ledger Security Team: your device was found in our implant investigation. Verify your 24-word recovery phrase at ledger-device-check.com within 24 hours.
+S02,scam,seed phishing,High or Scam,MetaMask: your wallet will be deactivated. Validate your Secret Recovery Phrase at metamask-validate-wallet.net
+S03,scam,airdrop drainer,High or Scam,Congratulations! Your wallet is eligible for the $ARB Season 2 airdrop. Claim within 24 hours at arbitrum-claim-season2.xyz by connecting your wallet.
+S04,scam,fake support,High or Scam,"Hello, I'm from Binance support. Your account has a pending refund of 4,500 USDT. Send 50 USDT to unlock it."
+S05,scam,SAFU refund,High or Scam,Binance SAFU fund: affected users can claim compensation at binance-safu-refund.com. Connect your wallet.
+S06,scam,Flash USDT,High or Scam,"Selling FLASH USDT TRC20, stays in wallet 90 days, passes all exchanges. 10,000 USDT for 300 USDT."
+S07,scam,pig butchering,High or Scam,"Hi Anna, sorry, wrong number. My uncle's platform gives 30% a week on USDT. I made $40k last month, start with $500."
+S08,scam,romance,High or Scam,"I love you so much, my dear. I'm stuck at customs, I need 2,000 USDT to release my gold shipment, I will repay double."
+S09,scam,government,High or Scam,"This is Agent Miller, FBI fraud unit. Withdraw cash today and deposit it into the Bitcoin ATM at the address I send you."
+S10,scam,tax,High or Scam,Tax office notice: unpaid crypto tax. Pay 0.05 BTC to the address below within 2 hours to avoid arrest.
+S11,scam,fake recruiter,High or Scam,"We liked your profile. Clone github.com/defi-labs-hiring/trading-dashboard, run npm install and npm start, send a screenshot within 2 hours."
+S12,scam,fake AI bot,High or Scam,"Copy this Solidity code into Remix, deploy it and send 0.5 ETH to the contract; the AI bot will run MEV arbitrage for you."
+S13,scam,recovery scam,High or Scam,We are certified recovery agents. We can trace and return your stolen crypto for a 10% upfront fee.
+S14,scam,giveaway,High or Scam,"Elon is giving away 5,000 BTC! Send 0.1 BTC to the address and get 0.2 back. Live now."
+S15,scam,doubling,High or Scam,Send any amount of ETH to this address and our smart contract will send double back within 10 minutes.
+S16,scam,address swap,High or Scam,"Our deposit address has changed, please use this new address for all future payments: 0x9f2b... (sent from a lookalike domain)"
+S17,scam,wallet validation,High or Scam,Your wallet needs synchronization. Visit wallet-sync-dapp.app and enter your 12 words to fix the error.
+S18,scam,fake exchange,High or Scam,"New exchange, 0% fees, deposit now and get a 100% bonus. Withdrawals open after you reach VIP 3."
+S19,scam,unlock fee,High or Scam,"Your withdrawal of $18,000 is approved. Pay the 8% verification fee in USDT to release it."
+S20,scam,sextortion,High or Scam,"I recorded you through your webcam. Send $1,500 in Bitcoin within 48 hours or I send the video to your contacts."
+S21,scam,permit phishing,High or Scam,Sign this gasless message to verify ownership and receive your rewards (Permit2 approval for all tokens).
+S22,scam,fake Ledger letter,High or Scam,Official Ledger recall letter: scan the QR code and enter your recovery phrase to receive a replacement device.
+S23,scam,SIM swap prep,High or Scam,"Hi, it's your mobile carrier. To keep your number active, reply with the code we just sent you."
+S24,scam,impersonation DM,High or Scam,"Hey it's Vitalik, I'm running a private ETH staking pool, 50% APR, DM me to join."
+S25,scam,fake DeFi,High or Scam,"Our pool guarantees 3% daily, withdraw anytime, referral bonus 20%."
+S26,scam,investment group,High or Scam,"Join our WhatsApp investment group, the professor shares stock and crypto tips, members made 300% this month."
+S27,scam,job task scam,High or Scam,Earn $300 a day liking videos. Top up 100 USDT to unlock the premium task package.
+S28,scam,fake KYC,High or Scam,Your account is restricted. Complete KYC at kyc-verify-exchange.co with your ID and seed phrase.
+S29,scam,malicious extension,High or Scam,Install the new Phantom security extension from this link to protect your wallet: phantom-secure-ext.com
+S30,scam,fake bridge,High or Scam,"The official bridge is down, use our backup bridge at fast-bridge-relay.io"
+S31,scam,rug pull pitch,High or Scam,"Dev wallet holds 90% but trust me, we will burn it after launch. Buy now before it pumps."
+S32,scam,honeypot,High or Scam,"Token can be bought but not sold until the ""anti-bot"" period ends in 30 days, buy now."
+S33,scam,lottery,High or Scam,You won 2 ETH in the Ethereum Foundation lottery. Pay 0.1 ETH gas fee to claim.
+S34,scam,charity,High or Scam,"Donate USDT to help earthquake victims, send to this wallet, no receipts needed."
+S35,scam,fake escrow,High or Scam,"Use my escrow service for the OTC deal, send your BTC to the escrow wallet first."
+S36,scam,URL phishing,High or Scam,https://metamask-io-wallet.com/restore
+S37,scam,URL phishing,High or Scam,https://uniswap-app-claim.xyz
+S38,scam,URL phishing,High or Scam,https://ledger-live-update.app
+S39,scam,URL phishing,High or Scam,https://coinbase-secure-login.co/verify
+S40,scam,address,High or Scam,0x47666Fab8bd0Ac7003bce3f5C3585383F09486E2 (attributed to the February 2025 Bybit exploit)
