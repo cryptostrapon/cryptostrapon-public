@@ -16,19 +16,19 @@ The education data lives in two separate open repositories (MIT code, CC BY 4.0 
 Investigations (57 documented cases): https://cryptostrapon.com/dark-bits
 
 ## What's public
-- Investigation methodology
-- Detector methodology
+- [Investigation methodology](methodology/investigations.md)
+- [Detector methodology](methodology/detector.md)
 - [Detector test set v1](methodology/detector-test-set-v1.md): 100 inputs (40 legitimate, 20 gray, 40 scam) with expected results, also as [CSV](methodology/detector-test-set-v1.csv)
-- Changelog
-- Red-flag pattern categories
+- [Changelog](changelog.md)
+- [Red-flag pattern categories](patterns/)
 - [Checklist: before you set up a hardware wallet](checklists/hardware-wallet-setup.md) ([ES](checklists/hardware-wallet-setup.es.md))
 
 ## What's not public
 - Application source code
 - Internal prompts and infrastructure
 
-This repository is documentation-only.
-Issues, discussions, and pull requests are not monitored.
+This repository is documentation only, with no application code.
+Seen a scam we do not cover yet? Post it in [Discussions](https://github.com/cryptostrapon/cryptostrapon-public/discussions); we read them every week.
 
 ## Licence
 
