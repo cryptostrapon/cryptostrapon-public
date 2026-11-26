@@ -17,9 +17,9 @@ Live tool: https://cryptostrapon.com/scam-detector
 The education data lives in two separate open repositories (MIT code, CC BY 4.0 content):
 
 - [crypto-scam-quiz](https://github.com/cryptostrapon/crypto-scam-quiz): 50 core scam scenarios as plain JSON, with a live quiz (the website version has 108 and adds a question for every new investigation)
-- [crypto-scam-glossary](https://github.com/cryptostrapon/crypto-scam-glossary): 11 scam vectors, with mechanics, red flags and what to do (the full glossary on the website has 306 terms)
+- [crypto-scam-glossary](https://github.com/cryptostrapon/crypto-scam-glossary): 11 scam vectors, with mechanics, red flags and what to do (the full glossary on the website has 307 terms)
 
-Investigations (57 documented cases): https://cryptostrapon.com/dark-bits
+Investigations (58 documented cases): https://cryptostrapon.com/dark-bits
 
 ## What's public
 - [Investigation methodology](methodology/investigations.md)
